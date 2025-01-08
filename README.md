@@ -1,4 +1,4 @@
-# SALES-TRANSACTION-DASHBOARD
+# SALES TRANSACTION DASHBOARD USING POWER BI
 
 Given, a dataset of ABC store, which has branches all over the world. The stakeholders require the detailed report on their sale transaction.
 
